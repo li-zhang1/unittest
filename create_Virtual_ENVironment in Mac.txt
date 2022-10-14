@@ -1,0 +1,6 @@
+Create a virtual Enviroment in Mac
+1. python3 -m venv pytest_3_venv
+2. source pytest_3_venv/bin/activate
+3. (pip3 install pytest
+4. deactivate
+5. rm -rf pytest_3_venv (Just remove the directory).
